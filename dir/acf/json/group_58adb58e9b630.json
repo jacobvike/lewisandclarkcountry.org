@@ -1,0 +1,40 @@
+{
+    "key": "group_58adb58e9b630",
+    "title": "Hotlinks",
+    "fields": [
+        {
+            "default_value": "",
+            "placeholder": "",
+            "key": "field_58adb5a0c90e4",
+            "label": "Hotlink URL",
+            "name": "hotlink_url",
+            "type": "url",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            }
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_category",
+                "operator": "==",
+                "value": "category:hotlinks"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1487779302
+}
